@@ -11,4 +11,20 @@
   @apply py-3
 }
 
+.title {
+  @apply text-3xl text-center font-bold mb-4
+}
+
+.title-small {
+  @apply text-2xl text-center font-medium mb-4
+}
+
+.intro {
+  @apply text-xl text-gray-500 text-center mx-8 mb-12 max-w-sm mx-auto
+}
+
+.text {
+  @apply text-xl text-gray-500
+}
+
 @tailwind  utilities;
