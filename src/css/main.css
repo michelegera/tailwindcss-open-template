@@ -3,4 +3,12 @@
 @tailwind  components;
 /* purgecss end ignore */
 
+.btn {
+  @apply inline-block py-2 px-8 bg-gray-900 text-center text-white rounded-sm font-medium
+}
+
+.btn-tall {
+  @apply py-3
+}
+
 @tailwind  utilities;
