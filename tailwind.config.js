@@ -26,6 +26,13 @@ module.exports = {
     require('tailwindcss-font-inter')({
       importFontFace: true,
       disableUnusedFeatures: true,
-    })
+    }),
+    require('tailwindcss-animatecss')({
+      classes: [
+        'animated',
+        'fadeIn',
+        'fadeInUp',
+      ]
+    }),
   ],
 }

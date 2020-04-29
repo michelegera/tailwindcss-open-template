@@ -5002,6 +5002,11 @@ symbol-tree@^3.2.2:
   resolved "https://registry.yarnpkg.com/symbol-tree/-/symbol-tree-3.2.4.tgz#430637d248ba77e078883951fb9aa0eed7c63fa2"
   integrity sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==
 
+tailwindcss-animatecss@^0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/tailwindcss-animatecss/-/tailwindcss-animatecss-0.3.3.tgz#71c354becb0d4324d6868c2cd9d3ffbc5efee455"
+  integrity sha512-x251ZA571mruMTy+VVq+u57J9q/4uB9PQPsOZMp+0ZFUQ63xylT9Wk8GxkYgIm6E4jh6Oo3IFU3Xk935v9dN0w==
+
 tailwindcss-font-inter@^1.0.8:
   version "1.0.8"
   resolved "https://registry.yarnpkg.com/tailwindcss-font-inter/-/tailwindcss-font-inter-1.0.8.tgz#132f8bc3c7434abf1651da06114b8f08c66307d6"
