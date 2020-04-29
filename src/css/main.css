@@ -12,11 +12,11 @@
 }
 
 .title {
-  @apply mb-4 text-3xl font-bold text-center;
+  @apply mb-4 text-3xl font-bold text-center text-white;
 }
 
 .title-small {
-  @apply mb-4 text-2xl font-medium text-center;
+  @apply text-2xl font-medium;
 }
 
 .intro {
