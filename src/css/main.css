@@ -4,7 +4,7 @@
 /* purgecss end ignore */
 
 .btn {
-  @apply inline-block py-2 px-8 text-center text-white rounded-sm font-medium transition duration-150 ease-in-out;
+  @apply inline-block px-8 py-2 font-medium text-center text-white rounded-sm transition duration-150 ease-in-out;
 }
 
 .btn-tall {
@@ -12,11 +12,11 @@
 }
 
 .title {
-  @apply text-3xl text-center font-bold mb-4;
+  @apply mb-4 text-3xl font-bold text-center;
 }
 
 .title-small {
-  @apply text-2xl text-center font-medium mb-4;
+  @apply mb-4 text-2xl font-medium text-center;
 }
 
 .intro {
