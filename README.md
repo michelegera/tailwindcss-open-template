@@ -4,7 +4,7 @@ An implementation of the [“Open” landing page template](https://open.cruip.c
 by [Cruip](https://cruip.com/)
 using [Tailwind CSS Boilerplate](https://github.com/michelegera/create-tailwindcss-boilerplate).
 
-👉 [Check out the demo](https://michelegera.github.io/tailwindcss-open-template/)
+👉 [Check out the demo](https://open.michelegeradev/)
 
 ## Getting started
 
