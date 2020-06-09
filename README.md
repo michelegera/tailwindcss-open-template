@@ -22,6 +22,7 @@ For more details, check out [this blog post](http://sangsoonam.github.io/2019/02
 ```bash
 $ yarn build
 $ cd dist/
-$ git commit -am "Build <current-version-number>"
+$ git add --all
+$ git commit -m "Build <current-version-number>"
 $ git push gh-pages
 ```
