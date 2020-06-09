@@ -17,4 +17,11 @@ $ yarn dev
 ## Deploy to Github Pages
 
 It’s possible to deploy the build to Github pages using a [worktree](https://git-scm.com/docs/git-worktree).
-For more details, check out [this blog post](https://medium.com/linagora-engineering/deploying-your-js-app-to-github-pages-the-easy-way-or-not-1ef8c48424b7).
+For more details, check out [this blog post](http://sangsoonam.github.io/2019/02/08/using-git-worktree-to-deploy-github-pages.html).
+
+```bash
+$ yarn build
+$ cd dist/
+$ git commit -am "Build <current-version-number>"
+$ git push gh-pages
+```
