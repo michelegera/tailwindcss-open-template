@@ -24,5 +24,5 @@ $ yarn build
 $ cd dist/
 $ git add --all
 $ git commit -m "Build <current-version-number>"
-$ git push gh-pages
+$ git push origin gh-pages
 ```
