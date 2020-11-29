@@ -4,20 +4,27 @@ module.exports = {
       center: true,
       padding: "1rem",
     },
-    extend: {
-      colors: {
-        black: "#151719",
-        "gray-500": "#9ca9b3",
-        "gray-600": "#2a2d32",
-        "gray-700": "#33363a",
-        "gray-800": "#25282c",
-        "green-300": "#73efcc",
-        "green-400": "#1cb68b",
-        "indigo-400": "#acadff",
-        "indigo-500": "#6b6dff",
-        "indigo-600": "#6163ff",
-        "indigo-700": "#5658dd",
-        white: "#eceded",
+    colors: {
+      black: "#151719",
+      white: "#eceded",
+
+      gray: {
+        500: "#9ca9b3",
+        600: "#2a2d32",
+        700: "#33363a",
+        800: "#25282c",
+      },
+
+      green: {
+        300: "#73efcc",
+        400: "#1cb68b",
+      },
+
+      indigo: {
+        400: "#acadff",
+        500: "#6b6dff",
+        600: "#6163ff",
+        700: "#5658dd",
       },
     },
   },
