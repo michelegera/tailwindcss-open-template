@@ -2,7 +2,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url ."
+    "build": "parcel build src/index.html --public-url .",
+    "deploy": "./scripts/deploy.sh"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.2",
