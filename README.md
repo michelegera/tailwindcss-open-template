@@ -1,4 +1,4 @@
-# “Open” landing page with Tailwind CSS
+# “Open” landing page with [Tailwind CSS](https://tailwindcss.com/docs)
 
 An implementation of the [“Open” landing page template](https://open.cruip.com/)
 by [Cruip](https://cruip.com/)
@@ -14,7 +14,15 @@ Clone this repository, then run:
 $ yarn dev
 ```
 
-## Deploy to Github Pages
+## Notes
+
+### [Animate CSS][1]
+
+* This demo uses additional CSS classes for animations, like `fadeIn`, which are from [`tailwindcss-animatecss`](https://github.com/bentzibentz/tailwindcss-animate.css), a [Tailwind CSS plugin](https://tailwindcss.com/docs/plugins) that integrates [Animate CSS][1].
+
+[1]: https://github.com/animate-css/animate.css)
+
+### Deploy to Github Pages
 
 It’s possible to deploy the build to Github pages using a [worktree](https://git-scm.com/docs/git-worktree).
 For more details, check out [this blog post](http://sangsoonam.github.io/2019/02/08/using-git-worktree-to-deploy-github-pages.html).
