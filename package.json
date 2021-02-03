@@ -3,13 +3,15 @@
   "scripts": {
     "dev": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url .",
-    "deploy": "./scripts/deploy.sh"
+    "deploy": "./scripts/deploy.sh",
+    "prettify": "yarn prettier --write ./src/**/*.{css,html}"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.2",
     "autoprefixer": "^9",
     "parcel": "^2.0.0-beta.1",
     "postcss": "^7",
+    "prettier": "2.2.1",
     "stylelint-config-standard": "^20.0.0",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat",
     "tailwindcss-animatecss": "^0.3.3",
