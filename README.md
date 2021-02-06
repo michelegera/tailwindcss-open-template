@@ -16,11 +16,11 @@ $ yarn dev
 
 ## Notes
 
-### [Animate CSS][1]
+### [Animate.css][1]
 
-* This demo uses additional CSS classes for animations, like `fadeIn`, which are from [`tailwindcss-animatecss`](https://github.com/bentzibentz/tailwindcss-animate.css), a [Tailwind CSS plugin](https://tailwindcss.com/docs/plugins) that integrates [Animate CSS][1].
+* This demo uses additional CSS classes for animations, like `fadeIn`, which are from [`tailwindcss-animatecss`](https://github.com/bentzibentz/tailwindcss-animate.css), a [Tailwind CSS plugin](https://tailwindcss.com/docs/plugins) that integrates [`Animate.css`][1].
 
-[1]: https://github.com/animate-css/animate.css)
+[1]: https://github.com/animate-css/animate.css
 
 ### Deploy to Github Pages
 
