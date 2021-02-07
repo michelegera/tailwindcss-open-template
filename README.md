@@ -18,11 +18,11 @@ $ yarn dev
 
 ### [Animate.css][1]
 
-* This demo uses additional CSS classes for animations, like `fadeIn`, which are from [`tailwindcss-animatecss`](https://github.com/bentzibentz/tailwindcss-animate.css), a [Tailwind CSS plugin](https://tailwindcss.com/docs/plugins) that integrates [`Animate.css`][1].
+This demo uses additional CSS classes for animations, like `fadeIn`, which are from [`tailwindcss-animatecss`](https://github.com/bentzibentz/tailwindcss-animate.css), a [Tailwind CSS plugin](https://tailwindcss.com/docs/plugins) that integrates [`Animate.css`][1].
 
 [1]: https://github.com/animate-css/animate.css
 
-### Deploy to Github Pages
+## Deploy to Github Pages
 
 It’s possible to deploy the build to Github pages using a [worktree](https://git-scm.com/docs/git-worktree).
 For more details, check out [this blog post](http://sangsoonam.github.io/2019/02/08/using-git-worktree-to-deploy-github-pages.html).
