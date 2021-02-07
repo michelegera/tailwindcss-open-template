@@ -27,10 +27,12 @@ This demo uses additional CSS classes for animations, like `fadeIn`, which are f
 It’s possible to deploy the build to Github pages using a [worktree](https://git-scm.com/docs/git-worktree).
 For more details, check out [this blog post](http://sangsoonam.github.io/2019/02/08/using-git-worktree-to-deploy-github-pages.html).
 
+This project has a handy deploy script that will automate the process for you.
+
 ```bash
-$ yarn build
-$ cd dist/
-$ git add --all
-$ git commit -m "Build <current-version-number>"
-$ git push origin gh-pages
+# Bump the version number
+yarn version
+
+# Deploy!
+yarn deploy
 ```
