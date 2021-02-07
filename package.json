@@ -8,12 +8,12 @@
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^2.1.2",
-    "autoprefixer": "^9",
-    "parcel": "^2.0.0-beta.1",
-    "postcss": "^7",
+    "autoprefixer": "^10.2.4",
+    "parcel": "^2.0.0-nightly.574",
+    "postcss": "^8.2.4",
     "prettier": "2.2.1",
     "stylelint-config-standard": "^20.0.0",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat",
+    "tailwindcss": "^2.0.2",
     "tailwindcss-animatecss": "^0.3.3",
     "tailwindcss-font-inter": "^1.0.8"
   },
