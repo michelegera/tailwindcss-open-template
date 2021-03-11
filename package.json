@@ -15,7 +15,7 @@
     "stylelint-config-standard": "^20.0.0",
     "tailwindcss": "^2.0.2",
     "tailwindcss-animatecss": "^0.3.3",
-    "tailwindcss-font-inter": "^1.0.8"
+    "tailwindcss-font-inter": "^2.0.2"
   },
   "version": "2.1.1"
 }

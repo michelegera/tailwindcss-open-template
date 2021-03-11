@@ -5333,6 +5333,11 @@ parse-json@^5.0.0:
     json-parse-even-better-errors "^2.3.0"
     lines-and-columns "^1.1.6"
 
+parse-unit@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/parse-unit/-/parse-unit-1.0.1.tgz#7e1bb6d5bef3874c28e392526a2541170291eecf"
+  integrity sha1-fhu21b7zh0wo45JSaiVBFwKR7s8=
+
 parse5@5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/parse5/-/parse5-5.1.0.tgz#c59341c9723f414c452975564c7c00a68d58acd2"
@@ -6753,12 +6758,12 @@ tailwindcss-animatecss@^0.3.3:
   resolved "https://registry.yarnpkg.com/tailwindcss-animatecss/-/tailwindcss-animatecss-0.3.3.tgz#71c354becb0d4324d6868c2cd9d3ffbc5efee455"
   integrity sha512-x251ZA571mruMTy+VVq+u57J9q/4uB9PQPsOZMp+0ZFUQ63xylT9Wk8GxkYgIm6E4jh6Oo3IFU3Xk935v9dN0w==
 
-tailwindcss-font-inter@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/tailwindcss-font-inter/-/tailwindcss-font-inter-1.0.8.tgz#132f8bc3c7434abf1651da06114b8f08c66307d6"
-  integrity sha512-/AxArXcZ4GN70AthR/jIES7h9VrY5Xocjs05A46X1CsWLt63m9Bwq8y5gCZ5/CIUpUl1GKFDTIUgmo9W2kNGFQ==
+tailwindcss-font-inter@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/tailwindcss-font-inter/-/tailwindcss-font-inter-2.0.2.tgz#eff67accdf635359668d98632369bacbf409cd8f"
+  integrity sha512-VSy4fddYXI/wdJU0scnEBxB4BIFQdVNM/3q+rUsmRhmQ3X09Zfuyx3ASahp5GM/pk3hj57roxJtSwWXXrQSYlA==
   dependencies:
-    lodash "^4.17.15"
+    parse-unit "^1.0.1"
 
 tailwindcss@^2.0.2:
   version "2.0.2"
