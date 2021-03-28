@@ -7,14 +7,14 @@
     "prettify": "yarn prettier --write ./src/**/*.{css,html}"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^2.1.2",
-    "autoprefixer": "^10.2.4",
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "autoprefixer": "^10.2.5",
     "parcel": "^2.0.0-nightly.574",
-    "postcss": "^8.2.4",
+    "postcss": "^8.2.8",
     "prettier": "2.2.1",
     "stylelint-config-standard": "^21.0.0",
-    "tailwindcss": "^2.0.2",
-    "tailwindcss-animatecss": "^0.3.3",
+    "tailwindcss": "^2.0.4",
+    "tailwindcss-animatecss": "^1.0.7",
     "tailwindcss-font-inter": "^2.0.2"
   },
   "version": "2.2.1"
