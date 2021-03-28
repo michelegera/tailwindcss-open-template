@@ -12,7 +12,7 @@
     "parcel": "^2.0.0-nightly.574",
     "postcss": "^8.2.4",
     "prettier": "2.2.1",
-    "stylelint-config-standard": "^20.0.0",
+    "stylelint-config-standard": "^21.0.0",
     "tailwindcss": "^2.0.2",
     "tailwindcss-animatecss": "^0.3.3",
     "tailwindcss-font-inter": "^2.0.2"
