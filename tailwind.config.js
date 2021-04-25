@@ -43,10 +43,7 @@ module.exports = {
   },
   variants: {},
   plugins: [
-    require("tailwindcss-font-inter")({
-      importFontFace: true,
-      disableUnusedFeatures: true,
-    }),
+    require("tailwindcss-font-inter")(),
     require("tailwindcss-animatecss")({
       classes: ["animated", "fadeIn", "fadeInUp"],
     }),

@@ -6774,10 +6774,10 @@ tailwindcss-animatecss@^1.0.7:
   resolved "https://registry.yarnpkg.com/tailwindcss-animatecss/-/tailwindcss-animatecss-1.0.7.tgz#7ee39cec68842692be27c31735a73c3bb4b7cb83"
   integrity sha512-PSGZDYSOqRNm+C/hJTMfw1pj4nprPQfbNh/wrYDC4G0R9dqtepPncIlKAFNSl7nTUFxH9ynhvBwcIul093ceXw==
 
-tailwindcss-font-inter@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/tailwindcss-font-inter/-/tailwindcss-font-inter-2.0.2.tgz#eff67accdf635359668d98632369bacbf409cd8f"
-  integrity sha512-VSy4fddYXI/wdJU0scnEBxB4BIFQdVNM/3q+rUsmRhmQ3X09Zfuyx3ASahp5GM/pk3hj57roxJtSwWXXrQSYlA==
+tailwindcss-font-inter@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/tailwindcss-font-inter/-/tailwindcss-font-inter-2.0.3.tgz#87debb4f047f55fd2a5993bd66c0e0ac406ec549"
+  integrity sha512-WfFelNJpaWAtOgUsOaynI4rWfzR+fKf+MWxdmurFir3vJmDUMuc4dWjTii4WL1RzU6hHe1/vAlcv+yIT4W0C4g==
   dependencies:
     parse-unit "^1.0.1"
 
