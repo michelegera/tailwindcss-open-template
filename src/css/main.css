@@ -27,3 +27,21 @@
     @apply text-xl text-gray-500;
   }
 }
+
+@layer utilities {
+  .animation-delay-250 {
+    animation-delay: 250ms;
+  }
+
+  .animation-delay-500 {
+    animation-delay: 500ms;
+  }
+
+  .animation-delay-750 {
+    animation-delay: 750ms;
+  }
+
+  .animation-delay-1000 {
+    animation-delay: 1000ms;
+  }
+}
