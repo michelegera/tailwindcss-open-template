@@ -44,4 +44,12 @@
   .animation-delay-1000 {
     animation-delay: 1000ms;
   }
+
+  .bg-illustration-01 {
+    background-image: url("../img/illustration-section-01.svg");
+  }
+
+  .bg-illustration-02 {
+    background-image: url("../img/illustration-section-02.svg");
+  }
 }
