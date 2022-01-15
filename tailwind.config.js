@@ -1,5 +1,5 @@
 module.exports = {
-  purge: ["./src/**/*.html"],
+  content: ["./src/**/*.html"],
   theme: {
     container: {
       center: true,
@@ -41,7 +41,6 @@ module.exports = {
       "6xl": "4rem",
     },
   },
-  variants: {},
   plugins: [
     require("tailwindcss-font-inter")(),
     require("tailwindcss-animatecss")({
