@@ -8,7 +8,7 @@
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
-    "autoprefixer": "^10.2.5",
+    "autoprefixer": "^10.4.2",
     "parcel": "^2.0.0-nightly.574",
     "postcss": "^8.2.15",
     "prettier": "^2.3.0",
