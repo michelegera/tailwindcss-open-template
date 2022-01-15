@@ -29,22 +29,6 @@
 }
 
 @layer utilities {
-  .animation-delay-250 {
-    animation-delay: 250ms;
-  }
-
-  .animation-delay-500 {
-    animation-delay: 500ms;
-  }
-
-  .animation-delay-750 {
-    animation-delay: 750ms;
-  }
-
-  .animation-delay-1000 {
-    animation-delay: 1000ms;
-  }
-
   .bg-illustration-01 {
     background-image: url("../img/illustration-section-01.svg");
   }

@@ -41,10 +41,5 @@ module.exports = {
       "6xl": "4rem",
     },
   },
-  plugins: [
-    require("tailwindcss-font-inter")(),
-    require("tailwindcss-animatecss")({
-      classes: ["animated", "fadeIn", "fadeInUp"],
-    }),
-  ],
+  plugins: [require("tailwindcss-font-inter")()],
 };
