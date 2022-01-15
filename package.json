@@ -11,6 +11,7 @@
     "autoprefixer": "^10.4.2",
     "parcel": "^2.2.0",
     "postcss": "^8.4.5",
+    "postcss-import": "^14.0.2",
     "prettier": "^2.5.1",
     "stylelint-config-standard": "^22.0.0",
     "tailwindcss": "^3.0.15",
